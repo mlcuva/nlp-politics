@@ -9,7 +9,8 @@
 git clone https://github.com/mlcuva/nlp-politics.git
 ```
 
-One of our ideas is to label/track topics during debates.
+Ideas:
+  - Label/track topics during debates
 
 Updates:
 - Using TextBlob and Debate transcripts! (10/24/2019)
